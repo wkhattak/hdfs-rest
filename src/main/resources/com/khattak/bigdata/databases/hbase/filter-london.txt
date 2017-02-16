@@ -1,0 +1,12 @@
+<Scanner>
+    <filter>
+    {
+	  "type": "FamilyFilter",
+	  "op": "EQUAL",
+	  "comparator": {
+	    "type": "BinaryComparator",
+	    "value": "bG9uZG9u"
+	  }
+	}
+    </filter>
+</Scanner>

@@ -1,0 +1,11 @@
+<!--use to filter on value. In this example, cf is london, column name is fifteen_second_usage-->
+<Scanner>
+    <filter>
+    {
+        "latestVersion":true, "ifMissing":true, 
+        "qualifier":"ZmlmdGVlbl9zZWNvbmRfdXNhZ2U=", "family":"bG9uZG9u", 
+        "op":"NOT_EQUAL", "type":"SingleColumnValueFilter", 
+        "comparator":{"value":"LTk5OTk5","type":"BinaryComparator"}
+    }
+    </filter>
+</Scanner>

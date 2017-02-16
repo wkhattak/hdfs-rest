@@ -1,0 +1,5 @@
+<!--only selects required CFs, in this case timestamp and london-->
+<Scanner>
+    <column>bG9uZG9u</column>
+    <column>dGltZXN0YW1w</column>
+</Scanner>

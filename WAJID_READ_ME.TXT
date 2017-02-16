@@ -1,0 +1,1 @@
+java -cp C:\Users\Admin\Documents\EclipseProjects\hdfs-rest\target\hdfs-rest-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.khattak.bigdata.filesystems.hdfs.HDFSRest 192.168.70.134:50070 /hadoop/data/smartmeter/statistics/city_usage/fifteen_minute/2016/10/1/fifteen_minute_statistics.csv
